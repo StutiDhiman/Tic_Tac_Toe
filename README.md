@@ -1,0 +1,1 @@
+Tic Tac Toe Game Project using Java and XML in Android. A two-player game. Each player chooses between X and O. The goal here is to get three consecutive X or O in a horizontal, vertical, or diagonal direction. There will be a single activity in this application. The status of the game will be displayed at the bottom.
